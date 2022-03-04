@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Frizly/codeless-conducts/main/Gnosis%20Safe%20UX%20Exploration/cover.jpg" alt="cover"> 
+
 # Gnosis Safe - UX Exploration
 Possibilities are endless.
 Crypto is just starting to create the infrastructure for real freedom. But it is far from reaching out to everyone in the world.
