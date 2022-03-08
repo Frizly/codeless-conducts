@@ -130,8 +130,8 @@ Done. That's it, now whenever we wan't to transfer this NFT, both owners need to
 Gnosis Safe adds a layer of protection, but also of complexity that we wish to fight in this bounty.
 It makes me feel safe that my assets, even shared assets, are going to be there no matter what.
 But it makes me nervous in the process of doing transactions. I fear something is not going as planned, that I am screwing up.
-And sometimes I dread using it because of how time-consuming it is compared to just using a0 wallet.
+And sometimes I dread using it because of how time-consuming it is compared to just using a wallet.
 
--	Share / export name of accounts for organizations
--	Tooltip information to show that the process is ongoing, they just have to wait for the chain to confirm.
--	Tooltip on transaction and inactive buttons, what needs to be done in order to use it
+-	Share and export the naming of wallets. Useful for organizations or simply for transferring data. When we're setting up a new safe for every member of that safe, the process of naming addresses needs to be done all over again. Imagine having some organization where there are many members of one safe, now every user has to name everyone's wallet address from the beginning. This is a terrible user experience.
+-	Tooltip information to show that the process is ongoing, the user just has to wait a bit longer for the chain to confirm. Because now nothing happens and it's not reassuring.
+-	Tooltip on transaction and inactive buttons, what needs to be done in order to use it. There are times when the transaction is pending, but the next step for the user is nowhere displayed.
